@@ -18,5 +18,5 @@ def search_count_subs(cur_str: str):
     return ans
 
 
-str_ = input()
-print(search_count_subs(str_))
+test_str = input()
+print(search_count_subs(test_str))
